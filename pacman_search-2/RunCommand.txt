@@ -1,0 +1,3 @@
+To run DFS/BFS/AStarAgent/HillClimberAgent/GeneticAgent/MCTSAgent
+
+-> python pacman.py -p agentName
